@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@owja/ioc": "^1.0.0-beta.2"
+    "@owja/ioc": "^1.0.0-beta.3"
   }
 }
